@@ -1,0 +1,5 @@
+kit desarmador laptop 40
+soplador 70
+pasta termica 15
+disco externo 150
+
